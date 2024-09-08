@@ -1,0 +1,117 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]ppPackages/
+out/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directory
+.vscode/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Visual Studio
+.vs/
+.vscode/
+.vsconfig
+
+# Rider
+.idea/
+*.sln.iml
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# DotCover
+*.dcov
+
+# StyleCop
+StyleCopReport.xml
+StyleCopCache.xml
+
+# NCrunch
+*.ncrunch*
+_NCrunch_*
+.*crunch*.local.xml
+
+# TeamCity
+_TeamCity*
+
+# DotTrace
+*.dtp
+*.dtt
+*.dtm
+
+# Web
+.bundle/
+node_modules/
+bower_components/
+
+# JetBrains
+.idea/
+
+# Others
+*.log
+*.tlog
+*.pidb
+*.log
+*.cache
+*.mspdb
+*.sdf
+*.opendb
+*.VC.db
+*.VC.VC.opendb
+
+# IIS
+[Ii][Nn][Ee][Tt][Pp][Uu][Bb]/
+
+# Azure Functions
+local.settings.json
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Windows specific files
+*.lnk
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Certificates
+*.pfx
+*.p12
+
+# Coverage Reports
+coverage/
+*.lcov
+
+# Package directories
+bin/
+obj/
